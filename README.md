@@ -1,3 +1,5 @@
+
+<img src="./Github Cover.jpg" alt="GitHUB" align="center" >
 <h1 align="center">Hi 👋, I'm Talha Nizam</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
